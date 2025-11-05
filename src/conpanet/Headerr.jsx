@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import logo from "../assets/svg/logo.svg";
 
-const Header = () => {
+const Headerr = () => {
   const [open, setOpen] = useState(false);
 
   return (
@@ -55,5 +55,5 @@ const Header = () => {
   );
 };
 
-export default Header;
+export default Headerr;
 

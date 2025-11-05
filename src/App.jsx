@@ -1,23 +1,23 @@
 import React from 'react'
-import Header from './conpanet/header'
-import Showkese from './conpanet/Showkese'
+import Headerr from './conpanet/Headerr'
+import Showkeses from './conpanet/Showkeses'
 import Navbar from './conpanet/Navbar'
 import About from './conpanet/About'
 import Contact from './conpanet/Contact'
 import Atribut from './conpanet/Atribut'
 import Container from './conpanet/Container'
-import Footer from './conpanet/Footer'
+import Footerr from './conpanet/Footerr'
 const App = () => {
   return (
     <div>
-      <Header/>
-      <Showkese/>
+      <Headerr/>
+      <Showkeses/>
       <Navbar/>
       <About/>
       <Contact/>
       <Atribut/>
       <Container/>
-      <Footer/>
+      <Footerr/>
     </div>
   )
 }

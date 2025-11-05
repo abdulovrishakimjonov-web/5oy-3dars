@@ -2,7 +2,7 @@ import React from 'react'
 import link from '../assets/svg/link.svg'
 import chiziqcha from '../assets/svg/chiziqcha.svg'
 
-const Footer = () => {
+const Footerr = () => {
   return (
     <div>
       <section className="bg-[#1A3E3E] py-15">
@@ -63,4 +63,4 @@ const Footer = () => {
   )
 }
 
-export default Footer
+export default Footerr

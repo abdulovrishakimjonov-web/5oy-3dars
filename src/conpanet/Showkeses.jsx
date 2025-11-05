@@ -1,7 +1,7 @@
 import React from "react";
 import toglar from '../assets/img/toglar.png'
 
-const Showkese = () => {
+const Showkeses = () => {
   return (
     <div className="mb-20">
       <div className="relative">
@@ -38,4 +38,4 @@ const Showkese = () => {
   );
 };
 
-export default Showkese;
+export default Showkeses;
